@@ -12,3 +12,5 @@
 	var a = 1;
 	var b = 1;
 ```
+
+[구글바로가기](http://google.com)
